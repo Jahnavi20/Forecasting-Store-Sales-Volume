@@ -1,1 +1,5 @@
-
+# Forecasting Store Sales Volume
+## Introduction
+For brick-and-mortar grocery stores, which must carefully balance how much inventory to acquire, sales volume estimates are critical. Grocery stores are left with an excess of perishable goods if the forecasts are a little off. Accurate forecasting could help stores ensure they have just enough products at the correct time. If a store can match a product's demand with just the correct amount of supply, there will be no missed sales owing to a lack of inventory and no additional costs due to overstocking.
+## Project Description
+The goal of this project is to develop a Time Series Forecasting model that can predict sales volume for a grocery store for 16 days (about two periods). The various models would be compared using evaluation metrics such as MAPE, R2, & RMSE, and the best model would be chosen for final forecasts. Based on the data, we must make recommendations and understand the parameters that are most important in determining sales volume on a given day for a specific store.
